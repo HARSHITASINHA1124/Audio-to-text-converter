@@ -1,6 +1,6 @@
 # Audio-to-text-converter
 
-# 🎤 Speech-to-Text Converter  
+# 🎤 Audio-to-Text Converter  
 
 A simple Flask app that converts speech into text. Users can **record audio** from their browser or **upload audio files** (WAV, MP3, M4A) for transcription.  
 
